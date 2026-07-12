@@ -75,3 +75,4 @@
 - Refactoring and UI improvements phase 19
 - Refactoring and UI improvements phase 20
 - Refactoring and UI improvements phase 21
+- Refactoring and UI improvements phase 22
