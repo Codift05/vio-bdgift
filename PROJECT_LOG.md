@@ -93,3 +93,4 @@
 - Refactoring and UI improvements phase 37
 - Refactoring and UI improvements phase 38
 - Refactoring and UI improvements phase 39
+- Refactoring and UI improvements phase 40
