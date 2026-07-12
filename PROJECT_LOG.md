@@ -98,3 +98,4 @@
 - Refactoring and UI improvements phase 42
 - Refactoring and UI improvements phase 43
 - Refactoring and UI improvements phase 44
+- Refactoring and UI improvements phase 45
