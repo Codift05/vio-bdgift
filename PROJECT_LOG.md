@@ -80,3 +80,4 @@
 - Refactoring and UI improvements phase 24
 - Refactoring and UI improvements phase 25
 - Refactoring and UI improvements phase 26
+- Refactoring and UI improvements phase 27
