@@ -60,3 +60,4 @@
 - Refactoring and UI improvements phase 4
 - Refactoring and UI improvements phase 5
 - Refactoring and UI improvements phase 6
+- Refactoring and UI improvements phase 7
