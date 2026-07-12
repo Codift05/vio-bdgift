@@ -58,3 +58,4 @@
 - Refactoring and UI improvements phase 2
 - Refactoring and UI improvements phase 3
 - Refactoring and UI improvements phase 4
+- Refactoring and UI improvements phase 5
